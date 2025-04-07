@@ -1,0 +1,850 @@
+Switching to fully guarded memory allocator.
+Blender 4.4.0 (hash 05377985c527 built 2025-03-18 03:01:40)
+graph_id_tag_update: id=SCScene flags=BASE_FLAGS source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=BRAirbrush flags=TRANSFORM, GEOMETRY, COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=BRPencil Soft flags=TRANSFORM, GEOMETRY, COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GROVERRIDE_RESYNC_LEFTOVERS flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GROVERRIDE_RESYNC_LEFTOVERS flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=TRANSFORM, GEOMETRY, COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=TRANSFORM, GEOMETRY, COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=TRANSFORM, GEOMETRY, COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GROVERRIDE_RESYNC_LEFTOVERS flags=TRANSFORM, GEOMETRY, COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+DEG_relations_tag_update: Tagging relations for update.
+graph_id_tag_update: id=GRScene Collection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, ID_RECALC_HIERARCHY source=USER_EDIT
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=USER_EDIT
+screen_refresh_if_needed: set screen
+[SCScene :: ViewLayer]: Removed 8 relations to no-op nodes
+graph_id_tag_update: id=SCScene flags=TRANSFORM, GEOMETRY, BASE_FLAGS, COPY_ON_EVAL source=RELATIONS
+graph_id_tag_update: id=OBCube flags=TRANSFORM, GEOMETRY, COPY_ON_EVAL source=RELATIONS
+graph_id_tag_update: id=MECube flags=LEGACY_0 source=RELATIONS
+graph_id_tag_update: id=MECube flags=COPY_ON_EVAL source=RELATIONS
+graph_id_tag_update: id=MAMaterial flags=COPY_ON_EVAL source=RELATIONS
+graph_id_tag_update: id=NTShader Nodetree flags=COPY_ON_EVAL source=RELATIONS
+graph_id_tag_update: id=NTShader Nodetree flags=COPY_ON_EVAL, ID_RECALC_NTREE_OUTPUT source=RELATIONS
+graph_id_tag_update: id=OBLight flags=TRANSFORM, GEOMETRY, COPY_ON_EVAL source=RELATIONS
+graph_id_tag_update: id=LALight flags=COPY_ON_EVAL source=RELATIONS
+graph_id_tag_update: id=OBCamera flags=TRANSFORM, GEOMETRY, COPY_ON_EVAL source=RELATIONS
+graph_id_tag_update: id=CACamera flags=COPY_ON_EVAL source=RELATIONS
+graph_id_tag_update: id=GRScene Collection flags=TRANSFORM, GEOMETRY, COPY_ON_EVAL, ID_RECALC_HIERARCHY source=RELATIONS
+graph_id_tag_update: id=GRCollection flags=GEOMETRY, COPY_ON_EVAL, ID_RECALC_HIERARCHY source=RELATIONS
+graph_id_tag_update: id=WOWorld flags=COPY_ON_EVAL source=RELATIONS
+graph_id_tag_update: id=NTShader Nodetree flags=COPY_ON_EVAL source=RELATIONS
+graph_id_tag_update: id=NTShader Nodetree flags=COPY_ON_EVAL, ID_RECALC_NTREE_OUTPUT source=RELATIONS
+graph_id_tag_update: id=LSLineStyle flags=COPY_ON_EVAL source=RELATIONS
+Depsgraph built in 0.000147 seconds.
+graph_id_tag_update: id=SCScene flags=COPY_ON_EVAL source=VISIBILITY
+graph_id_tag_update: id=OBCube flags=TRANSFORM, GEOMETRY, COPY_ON_EVAL source=VISIBILITY
+graph_id_tag_update: id=MECube flags=LEGACY_0 source=VISIBILITY
+graph_id_tag_update: id=MECube flags=COPY_ON_EVAL source=VISIBILITY
+graph_id_tag_update: id=MAMaterial flags=COPY_ON_EVAL source=VISIBILITY
+graph_id_tag_update: id=NTShader Nodetree flags=COPY_ON_EVAL source=VISIBILITY
+graph_id_tag_update: id=NTShader Nodetree flags=COPY_ON_EVAL source=VISIBILITY
+graph_id_tag_update: id=OBLight flags=TRANSFORM, GEOMETRY, COPY_ON_EVAL source=VISIBILITY
+graph_id_tag_update: id=LALight flags=COPY_ON_EVAL source=VISIBILITY
+graph_id_tag_update: id=OBCamera flags=TRANSFORM, GEOMETRY, COPY_ON_EVAL source=VISIBILITY
+graph_id_tag_update: id=CACamera flags=COPY_ON_EVAL source=VISIBILITY
+graph_id_tag_update: id=GRScene Collection flags=COPY_ON_EVAL source=VISIBILITY
+graph_id_tag_update: id=GRCollection flags=COPY_ON_EVAL source=VISIBILITY
+graph_id_tag_update: id=WOWorld flags=COPY_ON_EVAL source=VISIBILITY
+graph_id_tag_update: id=NTShader Nodetree flags=COPY_ON_EVAL source=VISIBILITY
+graph_id_tag_update: id=NTShader Nodetree flags=COPY_ON_EVAL source=VISIBILITY
+graph_id_tag_update: id=LSLineStyle flags=COPY_ON_EVAL source=VISIBILITY
+[SCScene :: ViewLayer]: Operation is entry point for update: GEOMETRY_EVAL_INIT()
+[SCScene :: ViewLayer]: Operation is entry point for update: COPY_ON_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: SOUND_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: PARAMETERS_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: PARAMETERS_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: HIERARCHY()
+[SCScene :: ViewLayer]: Operation is entry point for update: GEOMETRY_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: PARAMETERS_ENTRY()
+[SCScene :: ViewLayer]: Operation is entry point for update: PARAMETERS_EXIT()
+[SCScene :: ViewLayer]: Operation is entry point for update: VISIBILITY()
+[SCScene :: ViewLayer]: Operation is entry point for update: GEOMETRY_EVAL_DONE()
+[SCScene :: ViewLayer]: Operation is entry point for update: TRANSFORM_INIT()
+[SCScene :: ViewLayer]: Operation is entry point for update: PARAMETERS_EXIT()
+[SCScene :: ViewLayer]: Operation is entry point for update: COPY_ON_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: PARAMETERS_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: COPY_ON_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: TRANSFORM_LOCAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: AUDIO_VOLUME()
+[SCScene :: ViewLayer]: Operation is entry point for update: TRANSFORM_LOCAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: TRANSFORM_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: SEQUENCES_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: PARAMETERS_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: COPY_ON_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: TRANSFORM_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: HIERARCHY()
+[SCScene :: ViewLayer]: Operation is entry point for update: GEOMETRY_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: TRANSFORM_SIMULATION_INIT()
+[SCScene :: ViewLayer]: Operation is entry point for update: VIEW_LAYER_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: PARAMETERS_EXIT()
+[SCScene :: ViewLayer]: Operation is entry point for update: TRANSFORM_SIMULATION_INIT()
+[SCScene :: ViewLayer]: Operation is entry point for update: PARAMETERS_EXIT()
+[SCScene :: ViewLayer]: Operation is entry point for update: PARAMETERS_ENTRY()
+[SCScene :: ViewLayer]: Operation is entry point for update: COPY_ON_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: TRANSFORM_FINAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: COPY_ON_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: PARAMETERS_ENTRY()
+[SCScene :: ViewLayer]: Operation is entry point for update: PARAMETERS_ENTRY()
+[SCScene :: ViewLayer]: Operation is entry point for update: PARAMETERS_EXIT()
+[SCScene :: ViewLayer]: Operation is entry point for update: COPY_ON_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: TRANSFORM_FINAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: COPY_ON_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: PARAMETERS_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: COPY_ON_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: PARAMETERS_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: PARAMETERS_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: GEOMETRY_EVAL_DONE()
+[SCScene :: ViewLayer]: Operation is entry point for update: PARAMETERS_EXIT()
+[SCScene :: ViewLayer]: Operation is entry point for update: NTREE_OUTPUT()
+[SCScene :: ViewLayer]: Operation is entry point for update: TRANSFORM_INIT()
+[SCScene :: ViewLayer]: Operation is entry point for update: PARAMETERS_EXIT()
+[SCScene :: ViewLayer]: Operation is entry point for update: AUDIO_ENTRY()
+[SCScene :: ViewLayer]: Operation is entry point for update: PARAMETERS_ENTRY()
+[SCScene :: ViewLayer]: Operation is entry point for update: COPY_ON_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: COPY_ON_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: PARAMETERS_ENTRY()
+[SCScene :: ViewLayer]: Operation is entry point for update: TRANSFORM_LOCAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: GEOMETRY_SELECT_UPDATE()
+[SCScene :: ViewLayer]: Operation is entry point for update: PARAMETERS_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: COPY_ON_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: GEOMETRY_EVAL_DONE()
+[SCScene :: ViewLayer]: Operation is entry point for update: COPY_ON_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: TRANSFORM_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: SCENE_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: SHADING()
+[SCScene :: ViewLayer]: Operation is entry point for update: TRANSFORM_INIT()
+[SCScene :: ViewLayer]: Operation is entry point for update: HIERARCHY()
+[SCScene :: ViewLayer]: Operation is entry point for update: TRANSFORM_SIMULATION_INIT()
+[SCScene :: ViewLayer]: Operation is entry point for update: DIMENSIONS()
+[SCScene :: ViewLayer]: Operation is entry point for update: NTREE_OUTPUT()
+[SCScene :: ViewLayer]: Operation is entry point for update: PARAMETERS_EXIT()
+[SCScene :: ViewLayer]: Operation is entry point for update: PARAMETERS_ENTRY()
+[SCScene :: ViewLayer]: Operation is entry point for update: PARAMETERS_EXIT()
+[SCScene :: ViewLayer]: Operation is entry point for update: COPY_ON_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: TRANSFORM_FINAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: PARAMETERS_ENTRY()
+[SCScene :: ViewLayer]: Operation is entry point for update: PARAMETERS_EVAL()
+[SCScene :: ViewLayer]: Operation is entry point for update: VISIBILITY()
+[SCScene :: ViewLayer]: Operation is entry point for update: PARAMETERS_ENTRY()
+[SCScene :: ViewLayer]: Accumulated recalc bits for SCScene: 2106371
+[SCScene :: ViewLayer]: Accumulated recalc bits for OBCube: 2105475
+[SCScene :: ViewLayer]: Accumulated recalc bits for MECube: 4286541699
+[SCScene :: ViewLayer]: Accumulated recalc bits for MAMaterial: 8320
+[SCScene :: ViewLayer]: Accumulated recalc bits for NTShader Nodetree: 35659776
+[SCScene :: ViewLayer]: Accumulated recalc bits for OBLight: 2105475
+[SCScene :: ViewLayer]: Accumulated recalc bits for LALight: 8192
+[SCScene :: ViewLayer]: Accumulated recalc bits for OBCamera: 2105475
+[SCScene :: ViewLayer]: Accumulated recalc bits for CACamera: 8192
+[SCScene :: ViewLayer]: Accumulated recalc bits for GRScene Collection: 69214211
+[SCScene :: ViewLayer]: Accumulated recalc bits for GRCollection: 69214210
+[SCScene :: ViewLayer]: Accumulated recalc bits for WOWorld: 8320
+[SCScene :: ViewLayer]: Accumulated recalc bits for NTShader Nodetree: 35659776
+[SCScene :: ViewLayer]: Accumulated recalc bits for LSLineStyle: 8192
+[SCScene :: ViewLayer]: deg_create_eval_copy on LSLineStyle (0x7a64043066b8)
+[SCScene :: ViewLayer]: deg_create_eval_copy on NTShader Nodetree (0x7a6404306438)
+[SCScene :: ViewLayer]: deg_create_eval_copy on WOWorld (0x7a64042fa438)
+[SCScene :: ViewLayer]: deg_create_eval_copy on GRCollection (0x7a64060e7ff8)
+[SCScene :: ViewLayer]: deg_create_eval_copy on GRScene Collection (0x7a64060e7e38)
+[SCScene :: ViewLayer]: deg_create_eval_copy on CACamera (0x7a6402db7a38)
+[SCScene :: ViewLayer]: deg_create_eval_copy on OBCamera (0x7a64042ded38)
+[SCScene :: ViewLayer]: deg_create_eval_copy on LALight (0x7a64060e7578)
+[SCScene :: ViewLayer]: deg_create_eval_copy on OBLight (0x7a64042dde38)
+[SCScene :: ViewLayer]: deg_create_eval_copy on NTShader Nodetree (0x7a64042c1d38)
+[SCScene :: ViewLayer]: deg_create_eval_copy on MAMaterial (0x7a64042fa238)
+[SCScene :: ViewLayer]: deg_create_eval_copy on MECube (0x7a6402d72138)
+[SCScene :: ViewLayer]: deg_create_eval_copy on OBCube (0x7a64042dcf38)
+[SCScene :: ViewLayer]: deg_create_eval_copy on SCScene (0x7a640428f438)
+[SCScene :: ViewLayer]: layer_eval_view_layer on ViewLayer (0x7a64060e7ac0)
+[SCScene :: ViewLayer]: BKE_object_eval_eval_base_flags on OBCamera (0x7a64042ded38)
+[SCScene :: ViewLayer]: deg_evaluate_object_node_visibility on OBCamera (0x7a64042ded38)
+[SCScene :: ViewLayer]: BKE_object_eval_eval_base_flags on OBLight (0x7a64042dde38)
+[SCScene :: ViewLayer]: deg_evaluate_object_node_visibility on OBLight (0x7a64042dde38)
+[SCScene :: ViewLayer]: BKE_object_eval_eval_base_flags on OBCube (0x7a64042dcf38)
+[SCScene :: ViewLayer]: deg_evaluate_object_node_visibility on OBCube (0x7a64042dcf38)
+[SCScene :: ViewLayer]: BKE_object_eval_light_linking on OBCube (0x7a64042dcf38)
+[SCScene :: ViewLayer]: BKE_object_eval_light_linking on OBLight (0x7a64042dde38)
+[SCScene :: ViewLayer]: BKE_object_eval_light_linking on OBCamera (0x7a64042ded38)
+[SCScene :: ViewLayer]: BKE_object_eval_local_transform on OBCube (0x7a64042dcf38)
+[SCScene :: ViewLayer]: SEQ_eval_sequences on SCScene (0x7a640428f438)
+[SCScene :: ViewLayer]: BKE_object_eval_transform_final on OBCube (0x7a64042dcf38)
+[SCScene :: ViewLayer]: BKE_mesh_eval_geometry on MECube (0x7a6402d72138)
+[SCScene :: ViewLayer]: BKE_world_eval on WOWorld (0x7a64042fa438)
+[SCScene :: ViewLayer]: BKE_object_eval_shading on OBCamera (0x7a64042ded38)
+[SCScene :: ViewLayer]: BKE_object_eval_local_transform on OBCamera (0x7a64042ded38)
+[SCScene :: ViewLayer]: BKE_object_eval_transform_final on OBCamera (0x7a64042ded38)
+[SCScene :: ViewLayer]: BKE_object_eval_uber_data on OBCube (0x7a64042dcf38)
+[SCScene :: ViewLayer]: BKE_object_handle_data_update on OBCube (0x7a64042dcf38)
+[SCScene :: ViewLayer]: BKE_object_eval_shading on OBLight (0x7a64042dde38)
+[SCScene :: ViewLayer]: BKE_object_eval_local_transform on OBLight (0x7a64042dde38)
+[SCScene :: ViewLayer]: BKE_object_eval_transform_final on OBLight (0x7a64042dde38)
+[SCScene :: ViewLayer]: BKE_material_eval on MAMaterial (0x7a64042fa238)
+[SCScene :: ViewLayer]: BKE_object_eval_shading on OBCube (0x7a64042dcf38)
+[SCScene :: ViewLayer]: BKE_object_data_select_update on MECube (0x7a6402d72138)
+[SCScene :: ViewLayer]: BKE_object_select_update on OBCube (0x7a64042dcf38)
+[SCScene :: ViewLayer]: BKE_object_data_select_update on MECube (0x7a6400c0c738)
+Depsgraph [SCScene :: ViewLayer] updated in 0.001658 seconds.
+FRS_set_context: context 0x0x7a6423e548b8 scene 0x0x7a6421751440
+time bl_operators 0.0462
+time bl_ui 0.0000
+time keyingsets_builtins 0.0004
+time nodeitems_builtins 0.0002
+Python Script Load Time 0.0746
+bl_app_template_utils.reset('')
+Extension version cache: no extensions, skipping cache data.
+	addon_utils.enable io_anim_bvh
+	addon_utils.enable io_curve_svg
+	addon_utils.enable io_mesh_uv_layout
+	addon_utils.enable io_scene_fbx
+	addon_utils.enable io_scene_gltf2
+	addon_utils.enable cycles
+	addon_utils.enable pose_library
+	addon_utils.enable bl_pkg
+	addon_utils.disable io_anim_bvh
+	addon_utils.disable io_curve_svg
+	addon_utils.disable io_mesh_uv_layout
+	addon_utils.disable io_scene_fbx
+	addon_utils.disable io_scene_gltf2
+	addon_utils.disable cycles
+	addon_utils.disable pose_library
+	addon_utils.disable bl_pkg
+graph_id_tag_update: id=NTShader Nodetree flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=NTShader Nodetree flags=COPY_ON_EVAL source=USER_EDIT
+graph_id_tag_update: id=NTShader Nodetree flags=ID_RECALC_NTREE_OUTPUT source=USER_EDIT
+graph_id_tag_update: id=NTShader Nodetree flags=ID_RECALC_NTREE_OUTPUT source=USER_EDIT
+
+Blender quit
