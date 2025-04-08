@@ -17,22 +17,22 @@ scripts = [
 ]
 
 def run_script(script_name):
-    print(f"\n🛠️ Running {script_name} ...")
+    print(f"\nRunning {script_name} ...")
     result = subprocess.run(["python3", script_name], capture_output=True, text=True)
     
     if result.returncode == 0:
-        print(f"✅ Finished {script_name}")
+        print(f"Finished {script_name}")
         print(result.stdout)
     else:
-        print(f"❌ Error in {script_name}")
+        print(f"Error in {script_name}")
         print(result.stderr)
         exit(1)
 
 def main():
-    print("🚀 Starting full pipeline for Mayan Stele reconstruction...\n")
+    print("Starting the reconstruction...\n")
     for script in scripts:
         run_script(script)
-    print("\n🎉 All steps completed successfully!")
+    print("\nfinished")
 
 if __name__ == "__main__":
     main()
